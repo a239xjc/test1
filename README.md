@@ -33,6 +33,6 @@ The BI/BD/DN result in the paper
 Please click here to download more visualization results [result](https://drive.google.com/drive/folders/1FnKew6XgPcoQawIG9r95vqQAV9-ghJQ1?usp=sharing). 
 
 ## The code is shared via download for now
-You can download the code by clicking here. [here](https://drive.google.com/drive/folders/11GY1ycIF4q_jlWdF6YSvX-9QRCD8XK8j?usp=sharing)).
+You can download the code by clicking  [here](https://drive.google.com/drive/folders/11GY1ycIF4q_jlWdF6YSvX-9QRCD8XK8j?usp=sharing).
 
 
