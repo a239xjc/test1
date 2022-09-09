@@ -30,7 +30,7 @@ python main.py --model cen --save cen_x4 --scale 4 --save_results --test_only --
 ## Result
 
 The BI/BD/DN result in the paper
-Please click here to download more visualization results [result](http://semver.org/). 
+Please click here to download more visualization results [result]([http://semver.org/](https://drive.google.com/drive/folders/1FnKew6XgPcoQawIG9r95vqQAV9-ghJQ1?usp=sharing)). 
 
 ## Built With
 
