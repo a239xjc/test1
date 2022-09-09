@@ -32,18 +32,7 @@ python main.py --model cen --save cen_x4 --scale 4 --save_results --test_only --
 The BI/BD/DN result in the paper
 Please click here to download more visualization results [result](https://drive.google.com/drive/folders/1FnKew6XgPcoQawIG9r95vqQAV9-ghJQ1?usp=sharing). 
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## The code is shared via download for now
+You can download the code by clicking here. [here](https://drive.google.com/drive/folders/11GY1ycIF4q_jlWdF6YSvX-9QRCD8XK8j?usp=sharing)).
 
 
